@@ -1,0 +1,4 @@
+__pycache__/
+boofuzz-results/
+env/
+*.txt
